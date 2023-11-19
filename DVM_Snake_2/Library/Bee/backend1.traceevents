@@ -1,0 +1,488 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1700411467467549, "dur":2581, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411467470145, "dur":216, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411467470442, "dur":669, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411467471307, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1700411467471783, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1700411467471949, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467472056, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467472119, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467472192, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467473465, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467473659, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467473800, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467473973, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467474181, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467474389, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467474660, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467474838, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467474973, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700411467475217, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1700411467475554, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1700411467471131, "dur":4682, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411467475815, "dur":4314353, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411471790169, "dur":259, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411471790428, "dur":467, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411471790896, "dur":57, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411471791265, "dur":86, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411471791464, "dur":2836, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1700411467472225, "dur":4178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467476406, "dur":874, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467477281, "dur":7276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467484568, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700411467484558, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700411467484657, "dur":1097, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467494725, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700411467496663, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467496660, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467496843, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467497388, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467500205, "dur":4054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467504312, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467504400, "dur":3266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467507709, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467507877, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467511403, "dur":5444, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467507954, "dur":31620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467539712, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467539900, "dur":4939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467544896, "dur":1354, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467546269, "dur":14988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467561305, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467561503, "dur":11739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467573292, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467573420, "dur":8220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467581687, "dur":285, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467582012, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467585681, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467585875, "dur":7557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467593522, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467606575, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700411467593713, "dur":12972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700411467606739, "dur":4183430, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467472710, "dur":3967, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467476677, "dur":8227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467484904, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1700411467484998, "dur":1036, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467540314, "dur":14333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1700411467554810, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467555069, "dur":722, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467555796, "dur":10519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700411467566368, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467566616, "dur":15617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700411467582328, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467582691, "dur":15121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700411467597912, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700411467598003, "dur":18333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1700411467616377, "dur":4173798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467472732, "dur":3969, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467476701, "dur":8158, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467484860, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1700411467484963, "dur":976, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467494738, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1700411467497872, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1700411467498755, "dur":42734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1700411467541554, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467551686, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467541726, "dur":10047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467553864, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467553974, "dur":6084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467560159, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467560276, "dur":12592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467572917, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700411467573024, "dur":9348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467582417, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467582415, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467582557, "dur":30992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700411467613991, "dur":4176187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467471741, "dur":4214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467476410, "dur":1262, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467475957, "dur":2480, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467478437, "dur":6717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467485163, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1700411467485155, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1700411467485294, "dur":1458, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467494259, "dur":3002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1700411467497394, "dur":2616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2.exe" }}
+,{ "pid":12345, "tid":4, "ts":1700411467500051, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467500264, "dur":3727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467504070, "dur":3487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467507715, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467507976, "dur":5590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467513610, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467513798, "dur":28605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467542448, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467542554, "dur":4545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467547155, "dur":3870, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467551209, "dur":9686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467560955, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467561031, "dur":9648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467570725, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467570986, "dur":7129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467578199, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467578276, "dur":13516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467592727, "dur":425, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700411467593174, "dur":13591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700411467606809, "dur":4183349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467472516, "dur":4115, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467476631, "dur":8372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467485004, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1700411467485125, "dur":1037, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467500525, "dur":2512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1700411467503148, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467511721, "dur":5146, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467503341, "dur":36392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467539846, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467540168, "dur":5864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467546095, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467555193, "dur":650, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467546273, "dur":9583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467555925, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467561407, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467556190, "dur":5339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467561583, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467561740, "dur":11699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467573501, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467573604, "dur":10644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467584319, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467584528, "dur":5949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467590647, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467601410, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467590809, "dur":10763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700411467601695, "dur":369, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467602076, "dur":95, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700411467602175, "dur":11737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1700411467614187, "dur":4175980, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467471595, "dur":4259, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467476327, "dur":1046, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700411467475885, "dur":2189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467478075, "dur":5854, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467483937, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1700411467483930, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1700411467511993, "dur":5004, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467499359, "dur":41138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1700411467540703, "dur":18679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700411467559463, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467559727, "dur":8607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700411467568382, "dur":350, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467568755, "dur":10727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700411467579550, "dur":1776, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467581348, "dur":57, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467581409, "dur":8233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700411467589689, "dur":337, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467590058, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467605877, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700411467590148, "dur":15829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700411467606146, "dur":4184033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467471560, "dur":4369, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467476037, "dur":1278, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700411467475934, "dur":2230, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467478165, "dur":5638, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467483821, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1700411467483805, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1700411467491782, "dur":55314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1700411467547166, "dur":4010, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467551204, "dur":13041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700411467564310, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467564479, "dur":13590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700411467578163, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467578274, "dur":19596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700411467597917, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467605247, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700411467598097, "dur":7220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1700411467607108, "dur":4183049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700411467471726, "dur":4337, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700411467476593, "dur":1306, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467476066, "dur":2198, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700411467478265, "dur":5496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700411467484072, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467484176, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467484252, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467484563, "dur":565, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467485129, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467485247, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467485329, "dur":643, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467485973, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467486056, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467486146, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467486433, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467486595, "dur":335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467486931, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467487075, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467487146, "dur":683, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467487830, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467488191, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700411467488339, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
+,{ "pid":12345, "tid":8, "ts":1700411467488391, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shiven\\DVM_Snake_2\\Library\\PackageCache\\com.unity.burst@1.8.8\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":8, "ts":1700411467483802, "dur":4652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":8, "ts":1700411467510100, "dur":4273915, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":8, "ts":1700411471789059, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467472306, "dur":4138, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467476447, "dur":1123, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467477571, "dur":6558, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467484130, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1700411467505005, "dur":2547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1700411467507608, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467510530, "dur":2622, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467507766, "dur":5402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467513283, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467513362, "dur":29751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467543191, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467551678, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467543327, "dur":8432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467551818, "dur":6604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467558480, "dur":500, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467559016, "dur":9790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467568854, "dur":860, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467569737, "dur":7545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467577364, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467577511, "dur":15866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700411467593728, "dur":3649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":9, "ts":1700411467597465, "dur":5941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1700411467603546, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700411467603787, "dur":12161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1700411467616079, "dur":4174059, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467471831, "dur":4420, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467476363, "dur":1141, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467476255, "dur":2268, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467478524, "dur":5143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467483691, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467486261, "dur":5112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1700411467491376, "dur":2223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1700411467493600, "dur":10062, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467504859, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1700411467506498, "dur":283, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467506815, "dur":3097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467509968, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467510172, "dur":2929, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467513106, "dur":31537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467544735, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467545018, "dur":9309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467554507, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467554676, "dur":8784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467563565, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467563724, "dur":10775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467574604, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467574670, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467574748, "dur":10131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467584961, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467585034, "dur":7873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467592954, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467593193, "dur":10110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700411467603446, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700411467603660, "dur":8981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1700411467612698, "dur":4177443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467472212, "dur":4147, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467476362, "dur":1073, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467477435, "dur":6728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467484164, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1700411467493482, "dur":7861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1700411467501460, "dur":4469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467506010, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467508193, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467508429, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467512103, "dur":4952, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467508494, "dur":32316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467540888, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467540978, "dur":19795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467560866, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467561069, "dur":9798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467570915, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467571058, "dur":8917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467580025, "dur":1125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467581171, "dur":7322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467588541, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467588637, "dur":10574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700411467599316, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700411467599539, "dur":6493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1700411467606098, "dur":4184062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467472459, "dur":4165, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467476626, "dur":289, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467476916, "dur":7671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467484594, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1700411467484588, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1700411467484707, "dur":1949, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467500954, "dur":2945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1700411467503952, "dur":258, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467504246, "dur":3136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467507425, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467507684, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467509956, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467510172, "dur":2911, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467513089, "dur":31125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467544339, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467544478, "dur":19658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467564184, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467564275, "dur":11561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467575883, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467575983, "dur":13276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467589332, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467589553, "dur":13152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700411467602803, "dur":266, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700411467603089, "dur":13026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/level2" }}
+,{ "pid":12345, "tid":12, "ts":1700411467616166, "dur":4174020, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700411467471474, "dur":4351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700411467475829, "dur":7829, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700411467483683, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1700411467485045, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1700411467485154, "dur":32617, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1700411467485044, "dur":33075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1700411467543699, "dur":167132, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1700411467716165, "dur":6085, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1700411467716164, "dur":6088, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1700411467722281, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1700411467723764, "dur":4066409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467472623, "dur":4032, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467476656, "dur":8331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467484996, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":14, "ts":1700411467484987, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1700411467485088, "dur":990, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467500456, "dur":39900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1700411467540412, "dur":1283, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467541706, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467541771, "dur":25121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700411467566955, "dur":1474, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467568449, "dur":15233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700411467583769, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467601432, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467583859, "dur":17730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1700411467601649, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1700411467601805, "dur":10236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1700411467612731, "dur":4177413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467472891, "dur":3874, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467476766, "dur":7967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467484739, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":15, "ts":1700411467484734, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1700411467484835, "dur":994, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467539882, "dur":3334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1700411467543266, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467543477, "dur":14056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700411467557644, "dur":12832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700411467570530, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467570736, "dur":7558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700411467578570, "dur":334, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467578926, "dur":8886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700411467587865, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467588058, "dur":9399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1700411467598291, "dur":1115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467611301, "dur":206, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1700411467599435, "dur":12145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1700411467611928, "dur":4178237, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467472781, "dur":3940, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467476722, "dur":8127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467484859, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1700411467484849, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1700411467484980, "dur":1014, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467494001, "dur":47364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1700411467541414, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467541628, "dur":15132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700411467556850, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467556970, "dur":10829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700411467567909, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467568058, "dur":14967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700411467583076, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467583147, "dur":3036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700411467586269, "dur":226, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467586513, "dur":11879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1700411467598549, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1700411467598499, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1700411467598611, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1700411467598702, "dur":7406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1700411467606216, "dur":4183955, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467472827, "dur":3917, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467476745, "dur":8053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467484798, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1700411467484878, "dur":1099, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467504875, "dur":2248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1700411467507174, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467507293, "dur":37311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":17, "ts":1700411467544651, "dur":2545, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467547215, "dur":16438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1700411467563703, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467563820, "dur":11425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1700411467575302, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467575489, "dur":11915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1700411467587499, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467594860, "dur":164, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467587798, "dur":7263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1700411467595136, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467595211, "dur":10475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":17, "ts":1700411467605864, "dur":321, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1700411467606207, "dur":8402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":17, "ts":1700411467614651, "dur":4175503, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467472960, "dur":3827, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467476788, "dur":7929, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467484718, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":18, "ts":1700411467484824, "dur":920, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467494332, "dur":2050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":18, "ts":1700411467496482, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":18, "ts":1700411467512168, "dur":4902, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467497483, "dur":43716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":18, "ts":1700411467541296, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467541631, "dur":4138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467545919, "dur":313, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467546261, "dur":8734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467555068, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467555167, "dur":635, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467555807, "dur":5593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467561459, "dur":244, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467561737, "dur":10499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467572288, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467572679, "dur":6797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467579534, "dur":1612, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467581168, "dur":5504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467586743, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467587129, "dur":6775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1700411467594018, "dur":3322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":18, "ts":1700411467597452, "dur":3299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":18, "ts":1700411467600967, "dur":3415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":18, "ts":1700411467604434, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1700411467604508, "dur":8670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":18, "ts":1700411467613231, "dur":4176904, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467473018, "dur":3881, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467476899, "dur":7781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467484681, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":19, "ts":1700411467484776, "dur":1059, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467511878, "dur":5079, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467504712, "dur":35164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":19, "ts":1700411467539971, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467540177, "dur":17984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":19, "ts":1700411467558235, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467558429, "dur":8371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1700411467566850, "dur":351, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467567227, "dur":11561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1700411467578840, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467578971, "dur":10280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1700411467589419, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467589634, "dur":13318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1700411467602997, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467603285, "dur":130, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1700411467603418, "dur":9051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/level1" }}
+,{ "pid":12345, "tid":19, "ts":1700411467612516, "dur":4177635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467473059, "dur":3876, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467476935, "dur":7632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467484568, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1700411467484690, "dur":1477, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467494771, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1700411467497150, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467497149, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467497247, "dur":1171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467541270, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467498614, "dur":42728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467541393, "dur":221, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467541635, "dur":4554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467546310, "dur":208, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467546536, "dur":9764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467556345, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467556420, "dur":6358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467562830, "dur":270, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467563127, "dur":10890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467574075, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467574177, "dur":10355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467584604, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467584698, "dur":7528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467592384, "dur":762, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1700411467593170, "dur":19293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/shiven/Downloads/dvm/DVM_Snake_2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1700411467612536, "dur":4177611, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700411471799211, "dur":2492, "ph":"X", "name": "ProfilerWriteOutput" }
+,
